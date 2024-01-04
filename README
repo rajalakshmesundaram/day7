@@ -1,0 +1,7 @@
+# Day 7 task
+`In Rest Countries` 
++ Get all the countries from ["ASIA"] continents using filter function.
++ Get all the countries with a population of less than 2 lakshs.
++ Print the following details name,capital,flag using "For...Each"Function.
++ Print the total population of countries using reduce function.
++ Print the country that uses ["us dollars"] as currency.
